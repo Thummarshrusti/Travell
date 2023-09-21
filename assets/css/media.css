@@ -1,0 +1,976 @@
+@media screen and (max-width: 575px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .fa-bars, .fa-xmark{
+        font-size: 30px;
+    }
+    header img {
+        width: 18rem;
+    }
+
+    #hero .container h1 {
+        padding-top: 13rem;
+        color: #FFF;
+        font-size: 5rem;
+        font-weight: 700;
+        line-height: 6rem;
+    }
+    #hero .container #Explore-data {
+        padding-top: 1.6rem;
+    }
+
+    .location-info {
+        max-width: 49.9rem;
+        /* height: 7.7rem; */
+        border-radius: 7.2rem;
+        border: 1px solid #CBCACA;
+        background: #FFF;
+        display: flex;
+        margin-bottom: 3.3rem;
+        padding: 1rem;
+        justify-content: space-between;
+        overflow: hidden;
+        flex-wrap: wrap;
+        box-shadow: 0px 20px 35px 0px rgba(0, 0, 0, 0.30);
+    }
+
+
+    .search {
+        font-size: 30px;
+    }
+    section {
+        margin-top: 8rem;
+    }
+
+    .about .main-title {
+        font-size: 4rem;
+        font-weight: 600;
+        line-height: 5rem;
+
+    }
+
+    .about-us h3 {
+        color: #000;
+        text-align: center;
+        font-size: 2.8rem;
+        font-weight: 600;
+        line-height: 3rem;
+        padding-top: 1rem;
+    }
+
+    .founder .founder-image {
+        padding-right: 0rem;
+
+    }
+
+    .founder .founder-data img {
+        padding-bottom: 4rem;
+    }
+
+    .Discover {
+        text-align: center;
+        padding-top: 4rem;
+    }
+
+    .Package-header h3 {
+        font-size: 3rem;
+    }
+
+    #packages .Package-header {
+        margin-top: 5rem;
+    }
+
+    .blog-data {
+        margin-right: 0;
+    }
+
+
+    .contact-form {
+        margin-right: 0rem;
+    }
+
+    .info-data h5 {
+        color: #000;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 7.5rem;
+    }
+
+
+    .special-price input {
+        color: #9B9B9B;
+        /* width: 100%; */
+        text-align: center;
+
+    }
+
+
+    .special-price .coman-btn {
+        /* justify-content: center; */
+        margin-left: 4rem;
+        margin-top: 1rem;
+    }
+
+    .special-price {
+        width: 30rem;
+        border-radius: 5rem;
+        background: #FFF;
+        display: flex;
+        justify-content: space-between;
+        padding: 0.7rem 0.5rem 0.7rem 2.2rem;
+        margin: 0 auto;
+        margin-top: 4rem;
+        flex-wrap: wrap;
+    }
+
+    .navigation {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        margin-right: 2rem;
+
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        margin: 0 auto;
+        /* margin-left: calc((100% - 138rem) /2); */
+
+    }
+
+    #testimonial .main-title {
+        font-size: 4rem;
+
+    }
+
+    #blog{
+        margin-top: 4rem;
+    }
+
+    #blog .main-title {
+        font-size: 4rem;
+    }
+
+    .blog-data h4 {
+        color: #000;
+        font-size: 2.6rem;
+        font-weight: 500;
+        line-height: 5.1rem;
+    }
+
+    .stories-data h4 {
+        font-size: 2.6rem;
+        font-weight: 500;
+        line-height: 5rem;
+    }
+
+    .stories-data .stories-detail {
+        width: 30rem;;
+    }
+
+
+    .stories-data {
+        padding-left: 4rem;
+        padding-bottom: 5rem;
+        padding-right: 5rem;
+    }
+
+    #contact .main-title{
+        font-size: 4rem;
+    }
+
+    #subscribe .main-title {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    #subscribe .sub-title {
+        line-height: 2.6rem;
+    }
+
+
+    #subscribe {
+        /* padding-bottom: 15rem; */
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .col-sm-1 {
+        width: 8.33%;
+    }
+
+    .col-sm-2 {
+        width: 16.66%;
+    }
+
+    .col-sm-3 {
+        width: 25%;
+    }
+
+    .col-sm-4 {
+        width: 33.33%;
+    }
+
+    .col-sm-5 {
+        width: 41.66%;
+    }
+
+    .col-sm-6 {
+        width: 50%;
+    }
+
+    .col-sm-7 {
+        width: 58.33%;
+    }
+
+    .col-sm-8 {
+        width: 66.66%;
+    }
+
+    .col-sm-9 {
+        width: 75%;
+    }
+
+    .col-sm-10 {
+        width: 83.33%;
+    }
+
+    .col-sm-11 {
+        width: 91.66%;
+    }
+
+    .col-sm-12 {
+        width: 100%;
+    }
+    header img {
+        width: 18rem;
+    }
+
+    #hero .container h1 {
+        padding-top: 13rem;
+        color: #FFF;
+        font-size: 5rem;
+        font-weight: 700;
+        line-height: 6rem;
+    }
+    #hero .container #Explore-data {
+        padding-top: 1.6rem;
+    }
+
+    .location-info {
+        max-width: 49.9rem;
+        /* height: 7.7rem; */
+        border-radius: 7.2rem;
+        border: 1px solid #CBCACA;
+        background: #FFF;
+        display: flex;
+        margin-bottom: 3.3rem;
+        padding: 1rem;
+        justify-content: space-between;
+        overflow: hidden;
+        flex-wrap: wrap;
+        box-shadow: 0px 20px 35px 0px rgba(0, 0, 0, 0.30);
+    }
+
+
+    .fa-bars, .fa-xmark{
+        font-size: 30px;
+    }
+
+    .search {
+        font-size: 30px;
+    }
+
+    section {
+        margin-top: 8rem;
+    }
+
+    .main-title {
+        font-size: 4rem;
+        font-weight: 600;
+        line-height: 5rem;
+
+    }
+
+    .about-us h3 {
+        color: #000;
+        text-align: center;
+        font-size: 2.8rem;
+        font-weight: 600;
+        line-height: 3rem;
+        padding-top: 1rem;
+    }
+
+    .founder .founder-image {
+        padding-right: 0rem;
+
+    }
+
+    .founder .founder-data img {
+        padding-bottom: 4rem;
+    }
+
+    #packages .Package-header {
+        margin-top: 5rem;
+    }
+
+    .Discover {
+        text-align: center;
+        padding-top: 4rem;
+    }
+
+    .Package-header h3 {
+        font-size: 3rem;
+    }
+
+    #blog .main-title {
+        font-size: 4rem;
+    }
+
+
+    .blog-data {
+        margin-right: 0;
+        padding: 2rem 2rem 2.5rem 2rem;
+    }
+
+    .blog-data h4 {
+        color: #000;
+        font-size: 2.6rem;
+        font-weight: 500;
+        line-height: 5.1rem;
+    }
+
+    .stories-data h4 {
+        font-size: 2.6rem;
+        font-weight: 500;
+        line-height: 5rem;
+    }
+
+
+    .stories-data .stories-detail {
+        width: 45rem;;
+    }
+
+    .contact-form {
+        margin-right: 0px;
+    }
+
+    .info-data h5 {
+        color: #000;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 7.5rem;
+    }
+
+    .special-price {
+        width: 40rem;
+        border-radius: 5rem;
+        background: #FFF;
+        display: flex;
+        justify-content: space-between;
+        padding: 0.7rem 0.5rem 0.7rem 2.2rem;
+        margin: 0 auto;
+        margin-top: 9rem;
+        /* flex-wrap: wrap; */
+    }
+
+    .navigation {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        margin-right: 2rem;
+
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        /* margin-left: calc((100% - 54rem) /2); */
+        /* margin-left: 7rem; */
+        margin: 0 auto;
+    }
+
+    #blog{
+        margin-top: 4rem;
+    }
+
+    #subscribe .main-title {
+        font-size: 3rem;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .col-md-1 {
+        width: 8.33%;
+    }
+
+    .col-md-2 {
+        width: 16.66%;
+    }
+
+    .col-md-3 {
+        width: 25%;
+    }
+
+    .col-md-4 {
+        width: 33.33%;
+    }
+
+    .col-md-5 {
+        width: 41.66%;
+    }
+
+    .col-md-6 {
+        width: 50%;
+    }
+
+    .col-md-7 {
+        width: 58.33%;
+    }
+
+    .col-md-8 {
+        width: 66.66%;
+    }
+
+    .col-md-9 {
+        width: 75%;
+    }
+
+    .col-md-10 {
+        width: 83.33%;
+    }
+
+    .col-md-11 {
+        width: 91.66%;
+    }
+
+    .col-md-12 {
+        width: 100%;
+    }
+
+    header img {
+        width: 20rem;
+    }
+
+    #hero .container h1 {
+        padding-top: 13rem;
+        color: #FFF;
+        font-size: 6rem;
+        font-weight: 700;
+        line-height: 7rem;
+    }
+    #hero .container #Explore-data {
+        padding-top: 1.6rem;
+    }
+
+    .location-info {
+        max-width: 61.9rem;
+        /* height: 7.7rem; */
+        border-radius: 7.2rem;
+        border: 1px solid #CBCACA;
+        background: #FFF;
+        display: flex;
+        margin-bottom: 3.3rem;
+        padding: 1rem;
+        justify-content: space-between;
+        overflow: hidden;
+        flex-wrap: wrap;
+        box-shadow: 0px 20px 35px 0px rgba(0, 0, 0, 0.30);
+    }
+
+    .fa-bars, .fa-xmark{
+        font-size: 30px;
+    }
+
+    .search {
+        font-size: 30px;
+    }
+    section {
+        margin-top: 10rem;
+    }
+
+    .about .main-title {
+        font-size: 5rem;
+        font-weight: 600;
+        line-height: 6rem;
+        margin-bottom: 1.7rem;
+    }
+
+    .about-us h3 {
+        font-size: 3.8rem;
+        font-weight: 600;
+        line-height: 4rem;
+        padding-top: 1rem;
+    }
+
+    .founder .founder-image {
+        padding-right: 0rem;
+    }
+
+    .founder .founder-data img {
+        padding-bottom: 5rem;
+    }
+
+    #packages .main-title {
+        font-size: 5rem;
+    }
+    .Package-header h3 {
+        font-size: 4rem;
+    }
+
+    #packages .Package-header {
+        margin-top: 5rem;
+    }
+
+    .blog-info {
+        flex-wrap: wrap;
+    }
+     
+    #blog{
+        margin-top: 5rem;
+    }
+
+    
+    #blog .main-title {
+        font-size: 5rem;
+    }
+
+
+
+    .info {
+        color: #555;
+        font-size: 1.4rem;
+        font-weight: 500;
+        line-height: 2.7rem;
+        /* width: 40rem; */
+        padding-bottom: 3rem;
+    }
+
+
+    .contact-form {
+        margin-right: 0rem;
+    }
+
+    .info-data h5 {
+        color: #000;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 7.5rem;
+    }
+
+    #Destination .main-title{
+        font-size: 5rem;
+    }
+
+    .client-slide .client-detaile {
+        padding: 5rem 3rem 5rem 3rem;
+        margin-top: -5rem;
+    }
+
+    .client-slide .client-detaile .client-travel {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .navigation {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        margin-right: 2rem;
+
+    }
+
+    #testimonial .main-title {
+        font-size: 5rem;
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        margin-left: calc((100% - 72rem) /2);
+        /* margin-left: 7rem; */
+        /* margin: 0 auto; */
+    }
+
+    .special-price {
+        width: 55rem;
+        border-radius: 5rem;
+        background: #FFF;
+        display: flex;
+        justify-content: space-between;
+        padding: 0.7rem 0.5rem 0.7rem 2.2rem;
+        margin: 0 auto;
+        margin-top: 9rem;
+
+    }
+
+    #contact .main-title {
+        font-size: 6rem;
+    }
+
+    #subscribe .main-title {
+        font-size: 5rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .col-lg-1 {
+        width: 8.33%;
+    }
+
+    .col-lg-2 {
+        width: 16.66%;
+    }
+
+    .col-lg-3 {
+        width: 25%;
+    }
+
+    .col-lg-4 {
+        width: 33.33%;
+    }
+
+    .col-lg-5 {
+        width: 41.66%;
+    }
+
+    .col-lg-6 {
+        width: 50%;
+    }
+
+    .col-lg-7 {
+        width: 58.33%;
+    }
+
+    .col-lg-8 {
+        width: 66.66%;
+    }
+
+    .col-lg-9 {
+        width: 75%;
+    }
+
+    .col-lg-10 {
+        width: 83.33%;
+    }
+
+    .col-lg-11 {
+        width: 91.66%;
+    }
+
+    .col-lg-12 {
+        width: 100%;
+    }
+
+    .about .main-title {
+        font-size: 5rem;
+    }
+
+    .founder .founder-image {
+        padding-right: 10rem;
+    }
+
+    .package-data .day-date {
+        flex-wrap: wrap;
+    }
+
+    #packages .Package-header {
+        margin-top: 8rem;
+    }
+
+    #blog .main-title {
+        font-size: 5rem;
+    }
+    .blog-info {
+        flex-wrap: wrap;
+    }
+
+    .blog-data {
+        margin-right: 5rem;
+        padding: 2rem 2rem 2.3rem 2rem;
+    }
+
+
+    .blog-data p{
+        font-size: 3.6rem;
+    }
+
+    .stories-data h4 {
+        font-size: 3.6rem;
+    }
+
+    .info-data h5 {
+        color: #000;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 7.5rem;
+    }
+
+
+    .client-slide .client-detaile {
+        padding: 8rem 5rem 5rem 5rem;
+        margin-top: -5rem;
+
+    }
+
+    .client-slide .client-detaile .client-travel {
+        text-align: center;
+        margin-bottom: 5rem;
+    }
+
+    .navigation {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        margin-right: 2rem;
+
+    }
+
+    #testimonial .main-title {
+        font-size: 5rem;
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        margin-left: calc((100% - 96rem) /2);
+        /* margin-left: 7rem; */
+    }
+
+    .special-price {
+        width: 67.6rem;
+        border-radius: 5rem;
+        background: #FFF;
+        display: flex;
+        justify-content: space-between;
+        padding: 0.7rem 0.5rem 0.7rem 2.2rem;
+        margin: 0 auto;
+        margin-top: 9rem;
+
+    }
+
+    .contact-form {
+        margin-right: 3rem;
+    }
+
+
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+
+    .col-xl-1 {
+        width: 8.33%;
+    }
+
+    .col-xl-2 {
+        width: 16.66%;
+    }
+
+    .col-xl-3 {
+        width: 25%;
+    }
+
+    .col-xl-4 {
+        width: 33.33%;
+    }
+
+    .col-xl-5 {
+        width: 41.66%;
+    }
+
+    .col-xl-6 {
+        width: 50%;
+    }
+
+    .col-xl-7 {
+        width: 58.33%;
+    }
+
+    .col-xl-8 {
+        width: 66.66%;
+    }
+
+    .col-xl-9 {
+        width: 75%;
+    }
+
+    .col-xl-10 {
+        width: 83.33%;
+    }
+
+    .col-xl-11 {
+        width: 91.66%;
+    }
+
+    .col-xl-12 {
+        width: 100%;
+    }
+
+    #hero .container h1 {
+        padding-top: 25rem;
+        color: #FFF;
+        font-size: 9.0rem;
+        font-weight: 700;
+        line-height: 11.0rem;
+    }
+
+    section {
+        margin-top: 15rem;
+    }
+
+    .main-title {
+        font-size: 6rem;
+        font-weight: 600;
+        margin-bottom: 2rem;
+        line-height: 7rem;
+    }
+
+    .about-us h3 {
+        font-size: 4rem;
+        font-weight: 600;
+        line-height: 7rem;
+        padding-top: 1rem;
+    }
+
+    .founder .founder-data img {
+        padding-bottom: 8rem;
+    }
+
+    .founder .founder-image {
+        padding-right: 13rem;
+
+    }
+
+    .Discover {
+        text-align: right;
+    }
+
+    .Package-header h3 {
+        font-size: 4rem;
+    }
+
+    .package-data .day-date {
+        flex-wrap: nowrap;
+    }
+
+    .tipes {
+        row-gap: 5rem;
+    }
+
+    .blog-data {
+        margin-right: 5rem;
+        padding: 2rem 2rem 7.5rem 2rem;
+    }
+
+    .info {
+        color: #555;
+        font-size: 1.4rem;
+        font-weight: 500;
+        line-height: 2.7rem;
+        /* width: 40rem; */
+        padding-bottom: 5rem;
+    }
+
+
+
+    .info-data h5 {
+        color: #000;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 7.5rem;
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        margin-left: calc((100% - 114rem) /2);
+        /* margin-left: 7rem; */
+    }
+    .navigation {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 3rem;
+        margin-right: 2rem;
+
+    }
+
+    #subscribe .main-title {
+        font-size: 6rem;
+    }
+
+}
+
+@media screen and (min-width: 1400px) {
+    .container {
+        max-width: 1320px;
+    }
+
+    .col-xxl-1 {
+        width: 8.33%;
+    }
+
+    .col-xxl-2 {
+        width: 16.66%;
+    }
+
+    .col-xxl-3 {
+        width: 25%;
+    }
+
+    .col-xxl-4 {
+        width: 33.33%;
+    }
+
+    .col-xxl-5 {
+        width: 41.66%;
+    }
+
+    .col-xxl-6 {
+        width: 50%;
+    }
+
+    .col-xxl-7 {
+        width: 58.33%;
+    }
+
+    .col-xxl-8 {
+        width: 66.66%;
+    }
+
+    .col-xxl-9 {
+        width: 75%;
+    }
+
+    .col-xxl-10 {
+        width: 83.33%;
+    }
+
+    .col-xxl-11 {
+        width: 91.66%;
+    }
+
+    .col-xxl-12 {
+        width: 100%;
+    }
+
+    #testimonial .container {
+        max-width: 100%;
+        margin-left: calc((100% - 138rem) /2);
+    }
+
+
+}
